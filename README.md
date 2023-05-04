@@ -1,5 +1,7 @@
 Analysis about single person ration in Seoul, Korea
-[Analytics about single person ratio in Seoul, Korea.webm](https://user-images.githubusercontent.com/84688009/236079853-7b1357ab-5df9-42f1-9c25-b574ac628802.webm)
+[Analytics about single person ratio in Seoul, Korea.webm]
+
+(https://user-images.githubusercontent.com/84688009/236079853-7b1357ab-5df9-42f1-9c25-b574ac628802.webm)
 
 
 
