@@ -1,9 +1,8 @@
 # PowerBI-Project
 
 Analysis about single person ration in Seoul, Korea
-[Analytics about single person ratio in Seoul, Korea.webm]
 
-(https://user-images.githubusercontent.com/84688009/236079853-7b1357ab-5df9-42f1-9c25-b574ac628802.webm)
+https://user-images.githubusercontent.com/84688009/236080048-fee2de13-1bbc-47cd-8a95-82200306e0a5.mp4
 
 
 Personal PowerBI Project
