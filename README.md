@@ -7,11 +7,17 @@ https://user-images.githubusercontent.com/84688009/236080048-fee2de13-1bbc-47cd-
 
 
 
+Analysis about fine dust distribution in Seoul, Korea
+https://user-images.githubusercontent.com/84688009/236646318-ed8db721-d49e-458b-aee0-f0cf7f6b8db6.mp4
+
+
 
 
 <img width="516" alt="Screenshot 2023-05-03 204310" src="https://user-images.githubusercontent.com/84688009/236081000-1c14460b-f16b-4b28-bf44-a2d46b2e8d3e.png">
 <img width="522" alt="Screenshot 2023-05-03 204218" src="https://user-images.githubusercontent.com/84688009/236081002-8e19c6d2-9377-4b2b-882d-0c5edac4ea43.png">
 <img width="518" alt="Screenshot 2023-05-03 204150" src="https://user-images.githubusercontent.com/84688009/236081004-f69583db-e89d-4fa4-a9fd-adfba8dcd5a8.png">
+
+
 
 
 
