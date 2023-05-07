@@ -3,7 +3,7 @@
 
 Analysis of trend of cafe startup and closure in seoul
 
-[Analysis of trend of cafe startup and closure in seoul.webm](https://user-images.githubusercontent.com/84688009/236701766-e37a50af-3c3d-4961-8024-81990da4efac.webm)
+https://user-images.githubusercontent.com/84688009/236701900-ae1334e3-521e-437b-b979-a869072927b4.mp4
 
 
 
