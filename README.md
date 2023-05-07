@@ -1,5 +1,12 @@
 # PowerBI-Project
 
+
+Analysis of trend of cafe startup and closure in seoul
+
+[Analysis of trend of cafe startup and closure in seoul.webm](https://user-images.githubusercontent.com/84688009/236701766-e37a50af-3c3d-4961-8024-81990da4efac.webm)
+
+
+
 Analysis about single person ration in Seoul, Korea
 
 https://user-images.githubusercontent.com/84688009/236080048-fee2de13-1bbc-47cd-8a95-82200306e0a5.mp4
